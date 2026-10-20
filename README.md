@@ -1,6 +1,7 @@
 # Leo Leyva
 
-### CS and Mathematics at UT Austin, May '28. I build machine learning pipelines, AI agent architectures, and full-stack backend systems.
+### CS and Mathematics at UT Austin, May '28.
+I build machine learning pipelines, AI agent architectures, and full-stack backend systems.
 
 ## Selected Projects
 
@@ -8,7 +9,8 @@
 - **RefugeeConnect.me** — Full-stack web application connecting refugees with local resources using React, Python, AWS, PostgreSQL, and D3.js visualizations.
 - **Distro BeatSweep** — Automated news distribution platform leveraging Node.js, LangChain AI agents, backend microservices, and the Telegram Bot API.
 
-- 📫 Reach me @: **leonardo.leyvad@gmail.com**
+
+📫 Reach me @: **leonardo.leyvad@gmail.com**
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
