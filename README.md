@@ -1,4 +1,4 @@
-# Leonardo Leyva-Duenas
+# Leo Leyva
 
 ### CS and Mathematics at UT Austin, May '28. I build machine learning pipelines, AI agent architectures, and full-stack backend systems.
 
